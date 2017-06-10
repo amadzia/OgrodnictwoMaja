@@ -5,15 +5,15 @@
 
 =================================================================================
 
-#Screeny: https://github.com/amadzia/OgrodnictwoMaja/blob/master/screens%20(OgrodnictwoMaja).docx 
+Screeny: https://github.com/amadzia/OgrodnictwoMaja/blob/master/screens%20(OgrodnictwoMaja).docx 
 
-#Wykorzystane narzędzia: 
+Wykorzystane narzędzia: 
 Java, Maven, Spring, Hibernate, Bootstrap, JSP, JSTL / Taglibs, HTML, CSS, JavaScript, jQuery, AngularJS, REST, Data tables, baza danych: H2, IDE: Intellij IDEA Ultimate. 
 
-#Ograniczenia projektu:
+Ograniczenia projektu:
 Ćwiczenie miało na celu doprowadzenie do utworzenia aplikacji e-commerce, posiadającej wyłącznie podstawowe funkcjonalności. 
 
-#Podstawowe założenia: 
+Podstawowe założenia: 
 1.	Ogrodnictwo Maja jest małą firmą rodzinną, sprzedającą sadzonki własne oraz zaprzyjaźnionego Ogrodnictwa Gucio, 
 2.	Ogrodnictwo Maja nie jest podatnikiem czynnym i prowadzi sprzedaż wyłącznie w walucie polskiej, w związku z tym przyjęłam, że zmienne typu double posiadają wystarczający poziom precyzji do zapewnienia prawidłowych rozliczeń,
 3.	Na stronie głównej znajdują się odnośniki w postaci graficznej, umożliwiające bezpośredni dostęp do trzech oferowanych kategorii produktów,
