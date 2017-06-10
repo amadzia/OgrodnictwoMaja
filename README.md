@@ -8,7 +8,7 @@
 Screeny: https://github.com/amadzia/OgrodnictwoMaja/blob/master/screens%20(OgrodnictwoMaja).docx 
 
 Wykorzystane narzędzia: 
-Java, Maven, Spring, Hibernate, Bootstrap, JSP, JSTL / Taglibs, HTML, CSS, JavaScript, jQuery, AngularJS, REST, Data tables, baza danych: H2, IDE: Intellij IDEA Ultimate. 
+Java, Maven, Spring, Hibernate, Bootstrap, JSP, JSTL / Taglibs, HTML, CSS, JavaScript, jQuery, AngularJS, REST, DataTables, baza danych: H2, IDE: Intellij IDEA Ultimate. 
 
 Ograniczenia projektu:
 Ćwiczenie miało na celu doprowadzenie do utworzenia aplikacji e-commerce, posiadającej wyłącznie podstawowe funkcjonalności. 
